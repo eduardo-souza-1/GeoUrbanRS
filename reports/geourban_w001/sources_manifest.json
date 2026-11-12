@@ -1,0 +1,34 @@
+{
+  "verified_at_utc": "2026-11-11T12:41:51.452764+00:00",
+  "files": [
+    {
+      "file": "biome_state_col11.xlsx",
+      "url": "https://brasil.mapbiomas.org/wp-content/uploads/sites/3/2026/08/MAPBIOMAS_BRAZIL-COL.11-BIOME_STATE.xlsx",
+      "bytes": 17947768,
+      "sha256": "8a7e4b2faa636ca4d1c950db9c1f5987bd532621c70e9f492338dd79835c2af5"
+    },
+    {
+      "file": "legend_col11.csv",
+      "url": "https://brasil.mapbiomas.org/wp-content/uploads/sites/3/2026/08/legend_code_mapbiomas_brazil_collection_11.csv",
+      "bytes": 1521,
+      "sha256": "603239c5de7cca95799c788ab553a73ec3fc16477f681f63bb5af191d2f54dbe"
+    },
+    {
+      "file": "RS_Municipios_2024.zip",
+      "url": "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2024/UFs/RS/RS_Municipios_2024.zip",
+      "bytes": 9593274,
+      "sha256": "483d26641e07489d8e10132ef2c9032cd7c44ac9eae09eb95c5c2314196b8fef"
+    }
+  ],
+  "mapbiomas_terms": "README da planilha: dados públicos e gratuitos mediante referência à fonte. Coleção 11, agosto de 2026.",
+  "ibge_source_crs": "EPSG:4674",
+  "raster_access": {
+    "url": "https://storage.googleapis.com/mapbiomas-public/initiatives/brasil/collection11/lulc/coverage/brazil_coverage/brazil_coverage-col11_2025.tif",
+    "HEAD_status": 403,
+    "range_GET_status": 403,
+    "public_catalog_status": 401,
+    "detail": "Anonymous caller lacks storage.objects.get/list, or object may not exist.",
+    "downloaded": false
+  },
+  "state_zip": "RS_UF_2024.zip não adquirido: timeout. União da malha municipal validada separadamente."
+}
